@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Chandan R N
 
-🚀 **Full Stack Software Engineer** with **2.5+ years of experience** building scalable, production-ready web applications and APIs.
+🚀 **Full Stack Software Engineer**  building scalable, production-ready web applications and APIs.
 
 ### 👨‍💻 About Me
 - 💻 Full Stack Engineer working with **Node.js, TypeScript, Angular, React, and Next.js**
